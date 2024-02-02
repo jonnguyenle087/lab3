@@ -1,0 +1,13 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2024-02-02 15:42:56.098445000 Z
+    - 2024-02-02 15:42:56.098445000 Z
